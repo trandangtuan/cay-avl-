@@ -1,0 +1,6 @@
+hello:xin chao
+coppy:sao chep
+cut:di chuyen
+delete:xoa
+game:tro choi
+control:dieu khien
